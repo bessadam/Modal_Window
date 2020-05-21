@@ -1,0 +1,3 @@
+const $ = {}// $ - jquery Object
+
+//window.$ = $
